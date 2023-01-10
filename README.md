@@ -19,4 +19,4 @@ This is a simple web project
 please fork this repository and then issue Pull requests for review
 
 ### Copyright
-2022 Git.Training
+2022 Git.Training All rights reserved.
